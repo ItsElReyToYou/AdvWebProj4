@@ -1,0 +1,58 @@
+@charset "UTF-8";
+.top {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: center;
+    background-image: url(hero.jpg);
+    background-size: cover;
+    color: rgba(255,255,255,1.00);
+    font-weight: bold;
+}
+h3 {
+    font-weight: bold;
+}
+.col-sm-4 p {
+    padding-right: 57px;
+    padding-left: 57px;
+}
+.navbar {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.mid {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-align: center;
+    padding-left: 47px;
+    padding-right: 47px;
+}
+.bot {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-image: url(contact.jpg);
+    background-size: cover;
+    color: rgba(255,255,255,1.00);
+    font-weight: bold;
+}
+.bot h1 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 43px;
+    margin-top: 15px;
+}
+.top h1 {
+    font-weight: bold;
+    padding-top: 147px;
+}
+.foot {
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    background-color: rgba(0,0,0,1.00);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#submit, #reset {
+    color: rgba(255,255,255,1.00);
+}
+.jumbotron.top .lead {
+    padding-bottom: 124px;
+}
+.navbar.navbar-expand-lg.navbar-dark {
+    background-color: rgba(0,0,0,1.00);
+}
